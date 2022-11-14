@@ -1,0 +1,12 @@
+*.term
+.bash_history
+.bash_profile
+.bashrc
+.gitconfig
+.jupyter-blobs-v0.db
+.notebook.ipynb-0-jupyter.term
+.notebook.ipynb.sage-jupyter2
+.sage/
+.smc
+.snapshots/
+.ssh/
